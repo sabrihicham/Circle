@@ -2,7 +2,11 @@
 
 ## How to Run Flutter Project ?
  
-  flutter run
+$flutter run
 
-## Backend Springboot Server https://github.com/sabrihicham/server-circle
+# Backend Springboot Server https://github.com/sabrihicham/server-circle
+
+run maven springboot server in terminal
+
+$mvn spring-boot:run
 
